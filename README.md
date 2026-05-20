@@ -1,4 +1,7 @@
-# Supplementary Code
+# MoSE: A Mixture of Strategies Framework for Emotional Support Conversation
+
+![Uploading overall_framework.jpg…]()
+
 
 This directory contains the supplementary implementation of **MoSE**, our single-count strategy-mixture inference pipeline for ESConv.
 
