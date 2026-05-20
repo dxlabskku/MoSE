@@ -1,6 +1,6 @@
 # MoSE: A Mixture of Strategies Framework for Emotional Support Conversation
 
-![overall_framework](./images/overall_framework.png)
+![overall_framework](./images/overall_framework.jpg)
 
 This directory contains the supplementary implementation of **MoSE**, our single-count strategy-mixture inference pipeline for ESConv.
 
